@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Reward points",
+  "FriendlyName": "Extended reward points program",
+  "SystemName": "Misc.ExtendedRewardPointsProgram",
+  "Version": "1.11",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "nopCommerce team, Nop-Station Team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.ExtendedRewardPointsProgram.dll",
+  "Description": "This plugin allows you to use extended reward points functionality in nopCommerce."
+}
